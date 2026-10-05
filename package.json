@@ -1,0 +1,25 @@
+{
+  "name": "thestrategybg_backend-1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+ "scripts": {
+    "start": "node app.js"
+},
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradenpg4/thestrategybg_backend.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/bradenpg4/thestrategybg_backend/issues"
+  },
+  "homepage": "https://github.com/bradenpg4/thestrategybg_backend#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
